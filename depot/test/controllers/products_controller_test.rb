@@ -14,6 +14,12 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
   test "should get index" do
     get products_url
     assert_response :success
+    assert_select '#columns #side a', :minimum => 4
+    assert_select '#main h1', 1
+    # assert_select 'h3', :minimum => 30
+    # assert_select '.entry', 3
+    # assert_select 'h3', 'Programming Ruby 1.9'
+    # assert_select '.price', /\$[,\d]+\.\d\d/
   end
 
   test "should get new" do
@@ -26,7 +32,7 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
       post products_url, :product => @update
     end
 
-    assert_redirected_to product_url(Product.last)
+    assert_redirected_to product_url(Product.find_by(:title=>@update[:title]))
   end
 
   test "should show product" do

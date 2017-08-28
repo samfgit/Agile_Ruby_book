@@ -1,15 +1,28 @@
 <% if notice %>
 <p id="notice"><%= notice %></p>
 <% end %>
-<h1>Your Pragmatic Catalog</h1>
-<% @products.each do |product| %>
-<div class="entry">
-	<h2>TEST</h2>
-	<%= image_tag(product.image_url) %>
-	<h3 style="color:Red" ><%= product.title %></h3>
-	<%= sanitize(product.description) %>
-	<div class="price_line">
-		<span class="price"><%= number_to_currency(product.price) %></span>
+<h1>Your Pragmatic Catalog
+	<% if @counter > 5 %>
+	<span>, Accessed <i><%= pluralize(@counter , 'time')%> with no purchase!</i> </span>
+	<% end %>
+</h1>
+<!-- <% if @products.any? == true%>
+	<p id="no_products" class="true_p">True</p>
+	<% end %>
+	<% if @products.any? == false %>
+	<p id="no_products" class="false_p">False</p>
+	<% end %>-->
+	<% @products.each do |product| %>
+	<div class="entry">
+		<!-- <h2>TEST</h2>	 -->
+		<%= link_to(line_items_path(:product_id => product), method: :post) do %>
+		<%= image_tag(product.image_url) %>
+		<% end %>
+		<h3 style="color:Red" ><%= product.title %></h3>
+		<%= sanitize(product.description) %>
+		<div class="price_line">
+			<span class="price"><%= number_to_currency(product.price) %></span>
+			<%= button_to 'Add to Cart', line_items_path(:product_id => product) %>
+		</div>
 	</div>
-</div>
-<% end %>
+	<% end %>

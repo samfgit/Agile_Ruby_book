@@ -15,7 +15,10 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
     get products_url
     assert_response :success
     assert_select '#columns #side a', :minimum => 4
-    assert_select '#main h1', 1
+    # assert_select '#no_products', 1
+    # assert_select '#true_p', 1
+    assert_select '#false_p', 1
+    # assert_select '#main h1', 1
     # assert_select 'h3', :minimum => 30
     # assert_select '.entry', 3
     # assert_select 'h3', 'Programming Ruby 1.9'

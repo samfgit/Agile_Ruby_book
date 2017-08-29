@@ -128,7 +128,7 @@ float: left;
 background: #141;
 }
 #main {
-margin-left: 17em;
+margin-left: 27em;
 padding-top: 4ex;
 padding-left: 2em;
 background: white;
@@ -138,7 +138,7 @@ float: left;
 padding-top: 1em;
 padding-left: 1em;
 padding-bottom: 1em;
-width: 16em;
+width: 26em;
 background: #141;
 }
 #side a {
@@ -160,4 +160,26 @@ text-align: right;
 #store .total_line .total_cell {
 font-weight: bold;
 border-top: 1px solid #595;
+}
+
+/* Styles for the cart in the sidebar */
+#cart, #cart table {
+font-size: smaller;
+color: white;
+}
+#cart table {
+border-top: 1px dotted #595;
+border-bottom: 1px dotted #595;
+margin-bottom: 10px;
+}
+
+/*Yellow Fade Teq*/
+@keyframes yellowfade {
+    from { background: yellow; }
+    to { background: transparent; }
+}
+
+.new-item {
+    animation-name: yellowfade;
+    animation-duration: 1.5s;
 }

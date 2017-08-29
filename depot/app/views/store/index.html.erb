@@ -6,13 +6,13 @@
 	<span>, Accessed <i><%= pluralize(@counter , 'time')%> with no purchase!</i> </span>
 	<% end %>
 </h1>
-<!-- <% if @products.any? == true%>
+	<!-- <% if @products.any? == true%>
 	<p id="no_products" class="true_p">True</p>
 	<% end %>
 	<% if @products.any? == false %>
 	<p id="no_products" class="false_p">False</p>
 	<% end %>-->
-	<% @products.each do |product| %>
+<% @products.each do |product| %>
 	<div class="entry">
 		<!-- <h2>TEST</h2>	 -->
 		<%= link_to(line_items_path(:product_id => product), method: :post) do %>
@@ -25,4 +25,4 @@
 			<%= button_to 'Add to Cart', line_items_path(:product_id => product) %>
 		</div>
 	</div>
-	<% end %>
+<% end %>

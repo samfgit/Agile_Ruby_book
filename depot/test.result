@@ -1,0 +1,16 @@
+Run options: --seed 8426
+
+# Running:
+
+...................F
+
+Failure:
+LineItemsControllerTest#test_should_update_line_item [D:/m/Programming/Agile Ruby Source Code/depot/test/controllers/line_items_controller_test.rb:40]:
+Expected response to be a <3XX: redirect>, but was a <200: OK>
+
+bin/rails test test/controllers/line_items_controller_test.rb:38
+
+.......
+
+Finished in 12.717397s, 2.1231 runs/s, 4.1675 assertions/s.
+27 runs, 53 assertions, 1 failures, 0 errors, 0 skips

@@ -7,9 +7,9 @@ one:
   price: 9.99
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: ruby
+  description: ruby
+  image_url: ruby
   price: 9.99
 
 ruby:

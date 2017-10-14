@@ -64,16 +64,24 @@ class LineItemsController < ApplicationController
     @line_item.destroy
     respond_to do |format|
       format.html { redirect_to(store_url) }
+      format.js 
       format.json { head :no_content }
     end
   end
 
+  # PUT line_items/1/decrement
   def decrement
+    @cart = current_cart
     @line_item.decrement
     respond_to do |format|
       if @line_item.save
-        format.html { redirect_to store_url }                          
-      end
+        format.html { redirect_to store_url }  
+        format.js { @current_item = @line_item }
+        format.json { render :show, status: :ok, location: @line_item }   
+      else
+        format.html { render :show }
+        format.json { render json: @line_item.errors, status: :unprocessable_entity }
+      end                
     end
   end
 

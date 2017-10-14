@@ -17,4 +17,5 @@ class LineItem < ApplicationRecord
 			self.destroy
 		end
 	end
+
 end

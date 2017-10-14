@@ -18,4 +18,12 @@ class Cart < ApplicationRecord
 	def total_items
 		line_items.sum(:quantity)
 	end
+
+	def isNotEmpty
+		if (line_items.count > 0)
+			true
+		else
+			false
+		end
+	end
 end

@@ -50,6 +50,7 @@ class OrdersController < ApplicationController
           Cart.destroy(session[:cart_id])
           session[:cart_id] = nil
         end
+        NotifierMailer.order_received(@order).deliver_now
         format.html { redirect_to store_url, :notice => 'Thank you for your order.' }
         format.json { render :show, status: :created, location: @order }
       else

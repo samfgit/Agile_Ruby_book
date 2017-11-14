@@ -1,0 +1,1292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"users",
+				"users_url"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"RGB",
+				"rgba()"
+			],
+			[
+				"slider",
+				"slider-img"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"slide",
+				"slide-img-1"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"s",
+				"super"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"no",
+				"no-pad-container"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"tra",
+				"transition-property"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"foo",
+				"footer-hidden"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"log",
+				"log\tconsole.log('')"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"Line",
+				"line_item"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"line",
+				"line_item"
+			],
+			[
+				"line_",
+				"line_items_url"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wind",
+				"windH"
+			],
+			[
+				"stat",
+				"stateTrafficEmergencyEndPulse"
+			],
+			[
+				"tot",
+				"total_blue_emergency_end_pulse"
+			],
+			[
+				"curr",
+				"current_blue_emergency_end_pulse"
+			],
+			[
+				"curre",
+				"currentPulse"
+			],
+			[
+				"time_blue_emergency_",
+				"time_blue_emergency_end_pulse"
+			],
+			[
+				"stateTrafficEmergency",
+				"stateTrafficEmergencyEndPulse"
+			],
+			[
+				"stateTrafficEmergency2",
+				"stateTrafficEmergency2ndStage"
+			],
+			[
+				"las",
+				"lastStateBeforeEmergency"
+			],
+			[
+				"isIn",
+				"isInEmergencyGroup"
+			],
+			[
+				"state",
+				"stateTrafficEmergencyReceived"
+			],
+			[
+				"statetra",
+				"stateTrafficEmergency2ndStage"
+			],
+			[
+				"traff",
+				"trafficNormalStateGroup"
+			],
+			[
+				"fil",
+				"filteredItems"
+			],
+			[
+				"co",
+				"col-md-10"
+			],
+			[
+				"filtere",
+				"filteredMenuItems"
+			],
+			[
+				"menu",
+				"menuItems"
+			],
+			[
+				"filter",
+				"filter\t.filter() function"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"bought",
+				"boughtItems"
+			],
+			[
+				"shop",
+				"ShoppingListCheckOff"
+			],
+			[
+				"Lu",
+				"LunchCheckController"
+			],
+			[
+				"luc",
+				"LunchCheckController"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"Per",
+				"perspective"
+			],
+			[
+				"logo",
+				"logoTop"
+			],
+			[
+				"page",
+				"pageX"
+			],
+			[
+				"pag",
+				"pageY"
+			],
+			[
+				"last",
+				"lastDownY"
+			],
+			[
+				"la",
+				"lastDownX"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"yp",
+				"yPer"
+			],
+			[
+				"el",
+				"elTransform"
+			],
+			[
+				"hh",
+				"hHeight"
+			],
+			[
+				"template",
+				"template\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"typed",
+				"typed-div"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"btn",
+				"btn-xl"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"AC-QR",
+				"AC-QR_logo"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"class",
+				"class\tAttr"
+			],
+			[
+				"span",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"date_time_get",
+				"date_timestamp_get"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"visi",
+				"visible-xs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/controllers/users_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/sessions_controller.rb",
+			"settings":
+			{
+				"buffer_size": 384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/admin_controller.rb",
+			"settings":
+			{
+				"buffer_size": 96,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 584,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/controllers/sessions_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sessions/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/controllers/products_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 1591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 302,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 717,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "Snippet: log",
+		"selected_items":
+		[
+			[
+				"Snippet: log",
+				"Snippet: console.log('')"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: add \t",
+				"Package Control: Add Repository"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/m/Programming/Agile Ruby Source Code/depot",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/helpers",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/integration",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/mailers"
+	],
+	"file_history":
+	[
+		"/C/MAMP/htdocs/woo/wp-content/themes/boutique/style.css",
+		"/C/MAMP/htdocs/woo/wp-content/themes/boutique/template-homepage.php",
+		"/C/MAMP/htdocs/woo/wp-content/themes/storefront/assets/sass/woocommerce/woocommerce.css",
+		"/C/MAMP/htdocs/woo/wp-content/themes/storefront/style.css",
+		"/C/MAMP/htdocs/woo/wp-content/themes/storefront/style-rtl.css",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/application_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/layouts/application.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/admin/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/sessions_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/store_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/users/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/orders_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20171103063853_create_users.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/users/_user.json.jbuilder",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20171103132437_change_column_name.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/log/development.log",
+		"/D/m/Programming/Agile Ruby Source Code/depot/log/test.log",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/users_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures/users.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/mailers/notifier_mailer_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/integration/user_stories_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/line_items_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/carts_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/mailers/notifier_mailer.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/notifier_mailer/order_received.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/notifier_mailer/order_shipped.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/Gemfile",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/environments/development.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/environments/production.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/line_items_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/products_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/product.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/routes.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/order.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/line_item.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/environment.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/orders/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/orders_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/carts/_cart.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/create.js.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/_line_item.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/notifier_mailer/order_received.text.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/_line_item.text.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/mailers/application_mailer.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_k/config/environment.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_v/config/environments/development.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_v/config/environment.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/tmp/scripts/load_orders.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/who_bought.atom.builder",
+		"/C/Users/Aykut ARI/Desktop/htaccess",
+		"/D/m/Programming/Agile Ruby Source Code/.git/index",
+		"/D/m/Programming/Agile Ruby Source Code/.git/HEAD",
+		"/D/m/Programming/Agile Ruby Source Code/.git/description",
+		"/D/m/Programming/Agile Ruby Source Code/.git/config",
+		"/D/m/Programming/Agile Ruby Source Code/.git/COMMIT_EDITMSG",
+		"/D/m/Programming/Agile Ruby Source Code/.git/refs/remotes/origin/master",
+		"/D/m/Programming/Agile Ruby Source Code/.git/info/exclude",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/carts_controller.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_q/app/models/line_item.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_q/app/controllers/line_items_controller.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_q/app/controllers/orders_controller.rb",
+		"/D/m/Programming/Copied/Book/rails5-code/code/rails50/depot_g/app/controllers/line_items_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/cart.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/orders/new.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/orders/_form.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/assets/stylesheets/orders.scss",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/store_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures/orders.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures/line_items.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20171024072643_create_orders.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20171024072721_add_order_id_to_line_item.rb",
+		"/C/MAMP/htdocs/itech/wp-content/themes/abaitech/single.php",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/index.html",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/index2.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/style.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/functions.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-content.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/js/abaanadolu.js",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/footer.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/index.php",
+		"/F/m/site/index.html",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/single.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/header.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-generic.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-slider.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-stories.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-navbar.css",
+		"/C/MAMP/htdocs/abaanadolu/.htaccess",
+		"/C/Users/Aykut ARI/Downloads/PH Test.mp4.crdownload",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/css/abaanadolu-footer.css",
+		"/C/MAMP/htdocs/itech/wp-content/themes/abaitech/footer.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/vendor/slick/slick.css",
+		"/C/MAMP/htdocs/itech/wp-content/themes/abaitech/style.css",
+		"/C/MAMP/htdocs/itech/wp-content/themes/abaitech/functions.php",
+		"/C/MAMP/htdocs/itech/wp-content/themes/abaitech/css/abasoft.css",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/naked/js/html5.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/js/abaanadolu.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/abaanadolu-slider.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/abaanadolu-stories.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/abaanadolu-footer.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/inner-page.html",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/index.php",
+		"/C/MAMP/htdocs/abaanadolu/wp-content/themes/README.md",
+		"/C/MAMP/htdocs/abaanadolu/wp-config.php",
+		"/C/Users/Aykut ARI/Desktop/Tasks/2017-09-20 Abavac Website Backup/abavacco_new.sql",
+		"/C/MAMP/htdocs/abaanadolu/index.html",
+		"/C/Users/Aykut ARI/Downloads/installer.php",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/vendor/slick/slick-theme.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/abaanadolu-generic.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/abaanadolu-navbar.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/index0.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/LICENSE",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/README.md",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Websites/ABAsoft Website/js/abasoft.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Websites/ABAsoft Website/js/creative.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/RFID/TM07/SDK/windows/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65/.git/description",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/RFID/TM07/SDK/windows/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65/.git/COMMIT_EDITMSG",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/RFID/TM07/SDK/windows/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65_EN_SDK/UHFDemo_v3.65/.git/config",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/css/generic.css",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Websites/ABAsoft Website/css/abasoft.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/edit.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/show.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test.result",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/_form.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/seeds.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/store/index.html.erb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"passsword",
+			"open",
+			"bottom",
+			"height",
+			"stories_page_group",
+			"active",
+			"_",
+			"active",
+			"title",
+			"yaşadığınızda anlarsınız",
+			"15px",
+			"hei",
+			"\n\t\t.single-item .slider-img div.header h1{\n\t\t\tfont-family: OpenSans-SemiBold;\n\t\t\tfont-size: 40px;\n\t\t\tline-height: 1.3;\n\t\t\tdisplay: inline;\n\t\t\tposition: relative;\n\t\t\tleft: 100px;\n\t\t\ttop: 50px;",
+			"navbar-Profile",
+			"toggle",
+			"class",
+			".fa-green",
+			"nav.navbar.navbar-up li.nav-item",
+			"price",
+			"line_items",
+			"output",
+			"h3",
+			"\n\t<% %>",
+			"z",
+			"251-261_271",
+			"38",
+			"pipeFlow",
+			"stroke-dasharray:none;",
+			"stroke-dasharray: none;",
+			"stroke-dasharray: none;stroke-dashoffset: 0;",
+			"stroke-dasharray: none; stroke-dashoffset: 0;",
+			"id=\"idPf",
+			"id=\"idpf",
+			"flow",
+			"svglogo",
+			"z",
+			"id=\"idBr",
+			"idbr",
+			"defs",
+			"kkkk",
+			"kkkkk",
+			"layer",
+			"layer1",
+			"layer",
+			"elmove",
+			"svgLogo",
+			"bioFill",
+			"-4.10507,-1.",
+			"linearGradient29110",
+			"linearGradient29104",
+			"#a",
+			"stateTrafficEmergencyReceived",
+			"stateTrafficEmergencyEndPulse",
+			"NormalGroup",
+			"const static uint8_t SDA",
+			"const static uint8_t SDA = 8",
+			"log",
+			"scalar",
+			"path",
+			"logo",
+			"rgb",
+			"intro",
+			".intro",
+			"aos",
+			"offset",
+			"contact_me",
+			"switched",
+			"dinbek",
+			"block",
+			"page",
+			"aboutpage",
+			"navbar-header",
+			"download-div",
+			"download",
+			"download-div",
+			"style",
+			"header2",
+			"#header2",
+			"400px",
+			"unbrea",
+			"#footerlogo",
+			"#footerlogo {",
+			"\n#footerlogo {",
+			"400p",
+			".navbar-right",
+			".navbar-default .nav > li > a",
+			"menu",
+			"header3",
+			"homeHeading2Btn",
+			".slick-slide, .header-content, .slick-cloned",
+			".homeheading",
+			".header-content .header-content-inner .homeHeading",
+			".homeheading",
+			"homehead",
+			"homeheading1",
+			"homeheading2",
+			"homeheading1",
+			"header1",
+			"reveal",
+			"dropdown-menu",
+			"reveal",
+			"sr-button",
+			"margin-top",
+			"span",
+			".navbar-default.affix-top .nav > li > a",
+			"homeHeadingBtn",
+			"heading",
+			"row",
+			".navbar-header {\n}",
+			"class=\"row row-eq-height\"",
+			"hidden",
+			"slick",
+			"container-fluid",
+			"overflow",
+			"overflow: hid",
+			"body",
+			"homeHeading1Btn",
+			"overflow",
+			"mark",
+			"on mobile ",
+			"on mobile",
+			"mobile",
+			"cur",
+			"homeHeading1Btn",
+			"cursor",
+			"\n  display: inline-block;",
+			"curs",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"password",
+			"class=\"pipeFlow\" \n              id=\"idPf",
+			"class=\"pipeFlow\" \n         id=\"idPf",
+			"class=\"bioReact\" \n         id=\"idBr",
+			"class=\"bioReact\" \n    id=\"idBr",
+			"class=\"bioReact\" \nid=\"idBr",
+			"class=\"bioReact\" id=\"idBr \n",
+			" \n",
+			"homeHeading1",
+			"#download_bar",
+			"<li><a href=\"abaitech.html\">Our Vision</a></li>",
+			"<li><a href=\"abaitech.html#vision\">Our Mission</a></li>",
+			"conatctPage",
+			"<div class=\"text-center ref-info-xs",
+			"hvr-fade",
+			"project-category",
+			"shutter-out-vertical",
+			"rectangle-out",
+			"portfolio-box-caption hvr-radial-out\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/controllers/users_controller_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/sessions_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/admin_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test/controllers/sessions_controller_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/sessions/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "test/controllers/products_controller_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1322,
+								1333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/controllers/users_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1630,
+								1630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/users/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/views/users/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 261.0
+	},
+	"pinned_build_system": "",
+	"project": "depot.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"somePath"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
